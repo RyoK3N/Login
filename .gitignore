@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# Node
+frontend/node_modules/
+
+# Build assets
+frontend/dist/
+
+# Editors
+*.swp
